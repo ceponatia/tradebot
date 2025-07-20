@@ -1,0 +1,26 @@
+# Core dependencies
+coinbase-advanced-py==1.2.0
+pandas>=2.0.0
+ta>=0.10.2
+python-dotenv>=1.0.0
+
+# Async support
+asyncio>=3.4.3
+aiohttp>=3.9.0
+websockets>=12.0
+
+# Logging and monitoring
+colorlog>=6.7.0
+
+# Optional notification services
+# discord.py>=2.3.0
+# python-telegram-bot>=20.0
+
+# Development dependencies
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-mock>=3.11.0
+
+# Data analysis and backtesting
+numpy>=1.24.0
+matplotlib>=3.7.0
