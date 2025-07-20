@@ -45,4 +45,6 @@ live_trading_results/
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb
+*.ipynbarchitecture.md
+requirements.md
+tasks.md
